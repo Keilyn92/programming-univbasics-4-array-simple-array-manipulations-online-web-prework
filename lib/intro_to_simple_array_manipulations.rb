@@ -1,2 +1,2 @@
 artists = ["Frida Kahlo", "Pablo Picasso", "Cai Guo-Qiang"]
-artists.push
+artists.filter_parameter_logging
